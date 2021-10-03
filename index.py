@@ -32,7 +32,7 @@ mail_port = 465  # SMTP service port. SMTP服务端口
 
 # The notification list of alert emails. 告警邮件通知列表
 email_notify_list = {
-    "liuyi@tenops.com",
+    "@.com",
     # "XXXXXXXXX@qq.com"
 }
 
